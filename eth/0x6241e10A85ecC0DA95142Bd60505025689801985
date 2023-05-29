@@ -1,0 +1,11 @@
+{
+ "name": "AiTrolls",
+ "website": "www.aitrolls.io",
+ "description": "",
+ "explorer": "https://etherscan.io/token/0x6241e10a85ecc0da95142bd60505025689801985",
+ "type": "ERC20",
+ "symbol": "AiTrolls",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x85aBeFA1623f65700fe08bB661d180D96aF0C8F1"
+}
